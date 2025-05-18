@@ -50,7 +50,7 @@ if modelo == 2:
     # Parametros
     g=9.8
     m1 = float(input("masa 1"))
-    m2 = float(input("masa 1"))
+    m2 = float(input("masa 2"))
     # Aceleracion Constante
     a = (m2 - m1) * g/ (m1 + m2)
 
